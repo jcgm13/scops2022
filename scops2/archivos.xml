@@ -1,0 +1,11 @@
+<update>
+	<file name="intl.dll" code="A22CF5CDC0AF64997FE6FF4EC8A703E3"></file>
+	<file name="libeay32.dll" code="82459B6BBA1F2551F076F3C58A3494DE"></file>
+	<file name="libiconv.dll" code="629BF40342515198C003207FA9BFFF7C"></file>
+	<file name="libpq.dll" code="CBE219F9ACA8F73247C8A5C375E5960F"></file>
+	<file name="libxml2.dll" code="86CC3E57A40662C82CB7033AC8416FD9"></file>
+	<file name="libxslt.dll" code="70D2581AD02943A10057B9EE4A9FFE0F"></file>
+	<file name="msvcr120.dll" code="CFB4389190632BED848A2BEDC15C5D65"></file>
+	<file name="ssleay32.dll" code="36320BB8DC9118261A7A59716BE8E781"></file>
+	<file name="_scops.jc" code="863DBEFCBA1C17E72C055FF19B0FFE2C"></file>
+</update>
